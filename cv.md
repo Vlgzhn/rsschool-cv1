@@ -32,3 +32,10 @@ I love challenging myself and my goal is to become a professional front-end deve
 * RS School
 *JavaScript Front-End (in process)*
 
+## **Work Experience**
+CV Project on RS School
+
+## **Languages**
+* Russian - native
+* English - C2 (worked as a translator and interpreter for many years, have been teaching English to students for more than 10 years)
+* French - B1
