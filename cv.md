@@ -26,3 +26,9 @@ I love challenging myself and my goal is to become a professional front-end deve
     return diff
     }
     ```
+## **Education**
+* Moscow State Linguistic University
+*Linguistics, translation and interpretation (English and French)*
+* RS School
+*JavaScript Front-End (in process)*
+
