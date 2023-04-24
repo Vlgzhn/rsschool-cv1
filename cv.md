@@ -18,7 +18,8 @@ I love challenging myself and my goal is to become a professional front-end deve
 * GitHub
 
 ## **Code Example**
-```function sumOfDifferences(arr) {
+```
+    function sumOfDifferences(arr) {
 
     arr.sort(function(a, b){return b - a});
 
@@ -30,10 +31,12 @@ I love challenging myself and my goal is to become a professional front-end deve
 
     }
 
-    return diff
+    return diff 
+    
+    }
 
-}
-    ```
+```
+
 ## **Education**
 * Moscow State Linguistic University
 
