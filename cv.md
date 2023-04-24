@@ -16,3 +16,13 @@ I love challenging myself and my goal is to become a professional front-end deve
 * JavaScript
 * GitHub
 
+## **Code Example**
+```function sumOfDifferences(arr) {
+    arr.sort(function(a, b){return b - a});
+    let diff = 0
+    for(let i=0;i<=arr.length - 2;i++){
+    diff = diff + (arr[i] - arr[i + 1])
+    }
+    return diff
+    }
+    ```
