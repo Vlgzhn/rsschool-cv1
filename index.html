@@ -26,6 +26,18 @@
     <li>JavaScript</li>
     <li>GitHub</li>
  </ul>
- 
+ <h2>Code Example</h2>
+ <p><code>
+    function sumOfDifferences(arr) {<br>
+    arr.sort(function(a, b){return b - a});<br>
+    let diff = 0<br>
+    for(let i=0;i<=arr.length - 2;i++){<br>
+    diff = diff + (arr[i] - arr[i + 1])<br>
+    }<br>
+    return diff<br>
+    }
+ </code>
+ </p>
+
 </body>
 </html>
