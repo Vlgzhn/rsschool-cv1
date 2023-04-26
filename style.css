@@ -48,9 +48,12 @@ body {
 .photo {
     width: 300px;
     float: right;
-    border-radius: 50%;
     filter: grayscale(100%);
-    padding: 30px;
+    
+    border: 5px;
+    border-style: solid;
+    border-color: white;
+    margin: 30px;
 }
 
 #contact-info {
@@ -74,7 +77,7 @@ body {
 }
 
 .nav-link:hover {
-    color:rgb(0, 136, 255);
+    color:black;
     text-decoration: none;
     cursor: pointer;
 }
